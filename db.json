@@ -32,7 +32,7 @@
   "watch": [
         {
           "ref": "126610LV",
-          "image": "../assets/rolex1.jpg",
+          "image": "https://user-images.githubusercontent.com/119746785/206805277-605ff657-a824-481e-b761-4840d9076bb1.jpg",
           "namer": "Rolex Submariner Date 41mm",
           "Case": "Oystersteel, black dial with 300m (30 bar) water resistance",
           "Movement":
@@ -42,7 +42,7 @@
         },
         {
           "ref": "126679 SABR",
-          "image": "../assets/rolex2.jpg",
+          "image": "https://user-images.githubusercontent.com/119746785/206805277-605ff657-a824-481e-b761-4840d9076bb1.jpg",
           "namer": "Rolex Oyster Perpetual Yacht-Master 40mm",
           "Case": "18K white gold, bidirectional bezel set with 8 trapeze-cut diamonds, 32 trapeze-cut sapphires and one triangular diamond at 12 o’clock, black dial with 100m (10 bar) water resistance",
           "Movement":
