@@ -39,6 +39,7 @@
           "Movement":
             "Rolex Calibre 3230, automatic, Superlative Chronometer (COSC + Rolex certification after casing), 70h power reserve",
           "Strap": "Oystersteel bracelet",
+          "instock": true,
           "Price": "£7,150"
         },
         {
@@ -50,6 +51,7 @@
           "Movement":
             "Rolex Calibre 3235, automatic mechanical, Superlative Chronometer (COSC + Rolex certification after casing), 70h power reserve",
           "Strap": "Oystersteel bracelet",
+          "instock": true,
           "Price": "£64,400"
         },
         {
@@ -61,6 +63,7 @@
           "Movement":
             "Rolex Calibre 4130, automatic mechanical chronograph, Superlative Chronometer (COSC + Rolex certification after casing), 72h power reserve",
           "Strap": "Oystersteel bracelet",
+          "instock": true,
           "Price": "£28,000"
         },
         {
@@ -72,6 +75,7 @@
           "Movement":
             "Rolex Calibre 3235, automatic, Superlative Chronometer (COSC + Rolex certification after casing), 70h power reserve",
           "Strap": "Oystersteel bracelet",
+          "instock": true,
           "Price": "£11,350"
         },
         {
@@ -83,6 +87,7 @@
           "Movement":
             "Rolex Calibre 3235, automatic, Superlative Chronometer (COSC + Rolex certification after casing), 70h power reserve",
           "Strap": "Yellow Rolesor bracelet",
+          "instock": true,
           "Price": "£13,600"
         },
         {
@@ -94,6 +99,7 @@
           "Movement":
             "Rolex Calibre 3230, automatic, Superlative Chronometer (COSC + Rolex certification after casing), 70h power reserve",
           "Strap": "Yellow Rolesor bracelet",
+          "instock": false,
           "Price": "£8,950"
         },
         {
@@ -105,6 +111,7 @@
           "Movement":
             " Rolex Calibre 3285, automatic with GMT function, Superlative Chronometer (COSC + Rolex certification after casing), 70h power reserve",
           "Strap": "Oystersteel bracelet",
+          "instock": false,
           "Price": "£7,550"
         },
         {
@@ -116,6 +123,7 @@
           "Movement":
             "Rolex Calibre 3230, Superlative Chronometer (COSC + Rolex certification after casing), 70h power reserve",
           "Strap": "Oystersteel bracelet",
+          "instock": true,
           "Price": "£8,600"
         },
         {
@@ -127,6 +135,7 @@
           "Movement":
             "Rolex Calibre 3131, automatic with a magnetic shield to protect the movement, Superlative Chronometer (COSC + Rolex certification after casing), 48h power reserve",
           "Strap": "Oystersteel bracelet",
+          "instock": true,
           "Price": "£7,350"
         },
          {
@@ -137,6 +146,7 @@
           "Movement":
             "Rolex Calibre 2236, automatic, Superlative Chronometer (COSC + Rolex certification after casing), 55h power reserve",
           "Strap": "Oystersteel bracelet",
+          "instock": true,
           "Price": "£8,100"
         },
         {
@@ -148,6 +158,7 @@
           "Movement":
             "Rolex Calibre 3235, automatic, Superlative Chronometer (COSC + Rolex certification after casing), 70h power reserve",
           "Strap": "Oystersteel bracelet",
+          "instock": false,
           "Price": "£5,800"
         }
   ]
